@@ -86,7 +86,7 @@ Completed the following major tasks:
 - Configured and maintained a centralized backup server utilizing an external Dell Tape drive.
 
 ### USMC Reserves
-** Embarkation Chief and Training NCO - 1999 to 2006**
+**Embarkation Chief and Training NCO - 1999 to 2006**
 	
 - Worked with high level personnel to develop training schedules in order to meet annual training requirements. Additionally, responsible for ensuring that the training needs of the individual Marines in our unit had been met.
 - Developed and maintained current embarkation plans for unit, including inventory information, transportation logistics, as well as shipping and packing procedures. Provided embarkation, logistical, and disembarkation support for multiple overseas deployments.
