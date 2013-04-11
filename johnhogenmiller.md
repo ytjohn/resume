@@ -1,9 +1,9 @@
 John Hogenmiller
 ================
 
-- 814-317-6804
+- 814-602-9298
 - john@hogenmiller.net - email, xmpp, gtalk
-- Updated: October 23rd, 2012
+- Updated: April 10th, 2013
 
 ## Background
 
@@ -11,9 +11,11 @@ To obtain a position that utilizes my technical skills and abilities, while allo
 
 ## Skills/Competencies
 
-- Twelve years experience in the installation and administration of Linux and Windows based operating systems offering a wide array of different network related services.
 - DevOps - Puppet implementation and configuration management experience.
+- Continuous Integration - Configure Jenkins jobs to deploy code from source repositories.
+- Twelve years experience in the installation and administration of Linux and Windows based operating systems offering a wide array of different network related services.
 - Intimate knowledge of many communication services, protocols, and related hardware. 
+- Programming experience - familiar with Python, Bash, PHP, and Perl programming.
 - Experience in a technical managerial position involving supervising others, hiring, delegating tasks, handling customer inquiries, organizing team meetings, and training employees.
 - Capable of working on multiple complex projects simultaneously.  
 - RedHat Certified Engineer
@@ -22,12 +24,16 @@ To obtain a position that utilizes my technical skills and abilities, while allo
 
 ## Employment History
 
+### Penn State University Outreach, State College, PA
+**DevOps Engineer  - 2013 to present
 
-### Name withheld, Sterling, VA
-**Senior Linux Administrator - 2007 to Present**
 
-Performed customer care and Linux/Solaris system administration for a co-location/dedicated Fortune 500 company. Responsible for maintaining and coordinating maintenance in multiple data-centers.
+### NTT America, Sterling, VA
+**Senior Linux Administrator - 2007 to 2013
 
+Performed solution delivery and Linux/Solaris system administration for a co-location/dedicated Fortune 500 company. Responsible for maintaining and coordinating maintenance in multiple data-centers.
+
+- Designed and implemented Puppet environments for both internal and customer application stacks.
 - Install and configures software requested by customers.
 - Acts in a supervisory capacity for shift, overseeing workload distribution, quality, and timely escalations.
 - Works with management to develop and refine division wide processes, procedures, and technical documentation.
