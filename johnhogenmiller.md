@@ -1,8 +1,8 @@
 John Hogenmiller
 ================
 
-- 814-602-9298
-- john@hogenmiller.net - email, xmpp, gtalk
+- (814) 317-6804
+- john@hogenmiller.net
 - Updated: April 10th, 2013
 
 ## Objective
