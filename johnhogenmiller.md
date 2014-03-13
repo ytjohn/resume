@@ -1,7 +1,7 @@
 John Hogenmiller
 ================
 
-- (814) 317-6804  
+- Phone: (814) 317-6804  
 - john@hogenmiller.net  
 - Updated: March 13, 2014  
 
