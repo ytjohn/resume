@@ -3,7 +3,7 @@ John Hogenmiller
 
 - Phone: (814) 317-6804  
 - john@hogenmiller.net  
-- Updated: March 13, 2014  
+- Updated: April 9th, 2015 
 
 ## Objective
 
@@ -11,9 +11,9 @@ To obtain a position that utilizes my technical skills and abilities, while allo
 
 ## Skills/Competencies
 
-- DevOps - Puppet implementation and configuration management experience.
-- Continuous Integration - Configure Jenkins jobs to deploy code from source repositories.
-- Twelve years experience in the installation and administration of Linux and Windows based operating systems offering a wide array of different network related services.
+- DevOps - SaltStack, Puppet implementation and configuration management experience.
+- Continuous Integration - Deployment management using Jenkins and Go Continuous Deployment Server
+- Thirteen years experience in the installation and administration of Linux and Windows based operating systems offering a wide array of different network related services.
 - Intimate knowledge of many communication services, protocols, and related hardware. 
 - Programming experience - familiar with Python, Bash, PHP, and Perl programming.
 - Experience in a technical managerial position involving supervising others, hiring, delegating tasks, handling customer inquiries, organizing team meetings, and training employees.
@@ -24,8 +24,21 @@ To obtain a position that utilizes my technical skills and abilities, while allo
 
 ## Employment History
 
+### EMC Corporation, Bedford, PA
+**Cloud Services/Site Reliability Engineer - April 2014 to present**
+
+ - Worked with a small team to remotely deploy, install, and configure over 3000 bare metal servers across the globe in under 3 months time.
+ - Assisted in development of a network archetyper for rapid network design.
+ - Interviewed, recommended, and provided training for new employees in order to scale the team.
+ - Created very appreciated documentation for numerous systems and processes developed in house.
+ - Developed salt formulas and pillar data to manage large numbers of servers.
+ - Implemented Go Continuous Delivery pipelines. Salt formulas are automatically tested, built, and deployed into package repositories for consumption.
+ - Developed numerous tools for use by other groups to better manage our new service offerings.
+ - Spearheaded an effort to utilize EMC's ECS systems as a brand new cloud storage offering.
+ - Instrumental in scaling out those same ECS clusters on an aggressive timetable, making it a viable service offering, leading to the successful acquisition of large enterprise clients.
+
 ### Verisign, Reston, VA
-**Global Resolutions Operations Engineer - Jun 2013 to present**
+**Global Resolutions Operations Engineer - Jun 2013 to April 2014**
 
 - Developed Vagrant environments emulating production environment for deployment testing.
 - Work with hieradata to separate site or host specific data from logic.
